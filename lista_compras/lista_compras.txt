@@ -1,0 +1,4 @@
+1-auto
+2-moto
+3-camion
+4-colectivo
